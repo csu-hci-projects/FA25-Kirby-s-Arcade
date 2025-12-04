@@ -5100,7 +5100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimpleLevelMusic
   thisLevelSong: {fileID: 8300000, guid: 88d7cab8b8127764b83c2e12ee9b1881, type: 3}
-  volume: 0.4
+  volume: 0.3
   playOnAwake: 1
   loop: 1
 --- !u!82 &628451409

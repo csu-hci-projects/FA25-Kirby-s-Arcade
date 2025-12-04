@@ -13,6 +13,7 @@ public class EnemyFollow : MonoBehaviour
     public float rotationSpeed = 5f;
 
     private CharacterController controller;
+    private float followStartTime; // Time when following begins
 
     void Start()
     {
@@ -36,11 +37,17 @@ public class EnemyFollow : MonoBehaviour
             controller.slopeLimit = 45f;
         }
         Debug.Log("Enemy: CharacterController added/configured for bulletproof wall sliding!");
+
+        // Delay start: Wait 5 seconds before following
+        followStartTime = Time.time + 5f;
     }
 
     void Update() // CharacterController.Move works in Update (handles substeps internally)
     {
         if (playerTransform == null || controller == null) return;
+
+        // Wait 5 seconds before starting to follow
+        if (Time.time < followStartTime) return;
 
         // Horizontal direction to player (ignore height)
         Vector3 direction = playerTransform.position - transform.position;

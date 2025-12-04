@@ -6,6 +6,13 @@ public class DestroyOnTouch : MonoBehaviour
     private static int redCount = 44;    // <-- SET THIS TO YOUR NUMBER OF RED PELLETS
     private static bool redPhase = true;
 
+    void Start()
+    {
+        // Reset counts on every level load/restart (player touched -> scene reload)
+        redCount = 44;   // Reset to your total red pellets
+        redPhase = true;
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (!other.CompareTag("Player"))

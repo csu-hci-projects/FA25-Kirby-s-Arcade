@@ -6,6 +6,8 @@ TagManager:
   tags:
   - red
   - blue
+  - Pellets
+  - Pellet
   layers:
   - Default
   - TransparentFX

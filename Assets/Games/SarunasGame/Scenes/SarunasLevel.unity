@@ -443,11 +443,11 @@ GameObject:
   - component: {fileID: 63358874}
   m_Layer: 0
   m_Name: Beans (46)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &63358870
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -670,11 +670,11 @@ GameObject:
   - component: {fileID: 103941351}
   m_Layer: 0
   m_Name: Beans (49)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &103941347
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -909,11 +909,11 @@ GameObject:
   - component: {fileID: 113041460}
   m_Layer: 0
   m_Name: Beans (18)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &113041456
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1136,11 +1136,11 @@ GameObject:
   - component: {fileID: 120402655}
   m_Layer: 0
   m_Name: Beans (40)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &120402651
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1260,11 +1260,11 @@ GameObject:
   - component: {fileID: 127263148}
   m_Layer: 0
   m_Name: Beans (24)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &127263144
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1384,11 +1384,11 @@ GameObject:
   - component: {fileID: 155676105}
   m_Layer: 0
   m_Name: Beans (68)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &155676101
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1616,11 +1616,11 @@ GameObject:
   - component: {fileID: 194194029}
   m_Layer: 0
   m_Name: Beans (57)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &194194025
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1740,11 +1740,11 @@ GameObject:
   - component: {fileID: 199606201}
   m_Layer: 0
   m_Name: Beans (39)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &199606197
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2147,11 +2147,11 @@ GameObject:
   - component: {fileID: 274874926}
   m_Layer: 0
   m_Name: Beans (43)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &274874922
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2271,11 +2271,11 @@ GameObject:
   - component: {fileID: 283708627}
   m_Layer: 0
   m_Name: Beans (9)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &283708623
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2395,11 +2395,11 @@ GameObject:
   - component: {fileID: 289477699}
   m_Layer: 0
   m_Name: Beans (75)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &289477695
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2868,11 +2868,11 @@ GameObject:
   - component: {fileID: 379053029}
   m_Layer: 0
   m_Name: Beans (13)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &379053025
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2992,11 +2992,11 @@ GameObject:
   - component: {fileID: 380183136}
   m_Layer: 0
   m_Name: Beans (73)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &380183132
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3322,11 +3322,11 @@ GameObject:
   - component: {fileID: 391932378}
   m_Layer: 0
   m_Name: Beans (82)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &391932374
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3446,11 +3446,11 @@ GameObject:
   - component: {fileID: 415397451}
   m_Layer: 0
   m_Name: Beans (4)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &415397447
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3883,11 +3883,11 @@ GameObject:
   - component: {fileID: 521588361}
   m_Layer: 0
   m_Name: Beans (44)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &521588357
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -4504,11 +4504,11 @@ GameObject:
   - component: {fileID: 618317866}
   m_Layer: 0
   m_Name: Beans (71)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &618317862
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -4628,11 +4628,11 @@ GameObject:
   - component: {fileID: 618566516}
   m_Layer: 0
   m_Name: Beans (12)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &618566512
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -4855,11 +4855,11 @@ GameObject:
   - component: {fileID: 636388257}
   m_Layer: 0
   m_Name: Beans (74)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &636388253
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -4979,11 +4979,11 @@ GameObject:
   - component: {fileID: 641160111}
   m_Layer: 0
   m_Name: Beans (47)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &641160107
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5206,11 +5206,11 @@ GameObject:
   - component: {fileID: 649179668}
   m_Layer: 0
   m_Name: Beans (76)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &649179664
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5330,11 +5330,11 @@ GameObject:
   - component: {fileID: 680209367}
   m_Layer: 0
   m_Name: Beans (27)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &680209363
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5551,11 +5551,11 @@ GameObject:
   - component: {fileID: 705907090}
   m_Layer: 0
   m_Name: Beans (60)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &705907086
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5675,11 +5675,11 @@ GameObject:
   - component: {fileID: 714936916}
   m_Layer: 0
   m_Name: Beans (69)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &714936912
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5933,11 +5933,11 @@ GameObject:
   - component: {fileID: 731643393}
   m_Layer: 0
   m_Name: Beans (66)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &731643389
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6090,11 +6090,11 @@ GameObject:
   - component: {fileID: 797433440}
   m_Layer: 0
   m_Name: Beans
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &797433436
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6214,11 +6214,11 @@ GameObject:
   - component: {fileID: 801464736}
   m_Layer: 0
   m_Name: Beans (3)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &801464732
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6323,6 +6323,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f28c56f015f1884d89dec38eb82a794, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PelletCollector
+--- !u!1 &816295346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 816295347}
+  - component: {fileID: 816295348}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &816295347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816295346}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.23892, y: 0, z: -0.89299}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &816295348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816295346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a30515d16b2064f94d71298f82aa16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  nextSceneName: SarunasLevel2
+  finalSceneName: ArcadeLevel
+  pelletCounterText: {fileID: 0}
 --- !u!1 &819200342
 GameObject:
   m_ObjectHideFlags: 0
@@ -6338,11 +6385,11 @@ GameObject:
   - component: {fileID: 819200347}
   m_Layer: 0
   m_Name: Beans (63)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &819200343
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6534,11 +6581,11 @@ GameObject:
   - component: {fileID: 832435625}
   m_Layer: 0
   m_Name: Beans (45)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &832435621
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6658,11 +6705,11 @@ GameObject:
   - component: {fileID: 850170596}
   m_Layer: 0
   m_Name: Beans (2)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &850170592
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6782,11 +6829,11 @@ GameObject:
   - component: {fileID: 861964828}
   m_Layer: 0
   m_Name: Beans (16)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &861964824
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6906,11 +6953,11 @@ GameObject:
   - component: {fileID: 894385659}
   m_Layer: 0
   m_Name: Beans (14)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &894385655
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7133,11 +7180,11 @@ GameObject:
   - component: {fileID: 907627084}
   m_Layer: 0
   m_Name: Beans (34)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &907627080
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7360,11 +7407,11 @@ GameObject:
   - component: {fileID: 942233238}
   m_Layer: 0
   m_Name: Beans (35)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &942233234
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7484,11 +7531,11 @@ GameObject:
   - component: {fileID: 947636983}
   m_Layer: 0
   m_Name: Beans (83)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &947636979
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7608,11 +7655,11 @@ GameObject:
   - component: {fileID: 955002989}
   m_Layer: 0
   m_Name: Beans (55)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &955002985
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7732,11 +7779,11 @@ GameObject:
   - component: {fileID: 961048809}
   m_Layer: 0
   m_Name: Beans (10)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &961048805
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7948,11 +7995,11 @@ GameObject:
   - component: {fileID: 979186477}
   m_Layer: 0
   m_Name: Beans (59)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &979186473
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8072,11 +8119,11 @@ GameObject:
   - component: {fileID: 980771986}
   m_Layer: 0
   m_Name: Beans (19)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &980771982
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8196,11 +8243,11 @@ GameObject:
   - component: {fileID: 995242282}
   m_Layer: 0
   m_Name: Beans (25)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &995242278
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8526,11 +8573,11 @@ GameObject:
   - component: {fileID: 1006388667}
   m_Layer: 0
   m_Name: Beans (56)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1006388663
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8650,11 +8697,11 @@ GameObject:
   - component: {fileID: 1008223744}
   m_Layer: 0
   m_Name: Beans (5)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1008223740
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8774,11 +8821,11 @@ GameObject:
   - component: {fileID: 1033435518}
   m_Layer: 0
   m_Name: Beans (65)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1033435514
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8898,11 +8945,11 @@ GameObject:
   - component: {fileID: 1034144592}
   m_Layer: 0
   m_Name: Beans (72)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1034144588
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9022,11 +9069,11 @@ GameObject:
   - component: {fileID: 1054747095}
   m_Layer: 0
   m_Name: Beans (32)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1054747091
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9146,11 +9193,11 @@ GameObject:
   - component: {fileID: 1056773236}
   m_Layer: 0
   m_Name: Beans (61)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1056773232
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9568,11 +9615,11 @@ GameObject:
   - component: {fileID: 1111148578}
   m_Layer: 0
   m_Name: Beans (64)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1111148574
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9692,11 +9739,11 @@ GameObject:
   - component: {fileID: 1114179393}
   m_Layer: 0
   m_Name: Beans (33)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1114179389
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9919,11 +9966,11 @@ GameObject:
   - component: {fileID: 1144444246}
   m_Layer: 0
   m_Name: Beans (67)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1144444242
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10043,11 +10090,11 @@ GameObject:
   - component: {fileID: 1146384050}
   m_Layer: 0
   m_Name: Beans (62)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1146384046
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10167,11 +10214,11 @@ GameObject:
   - component: {fileID: 1149390429}
   m_Layer: 0
   m_Name: Beans (80)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1149390425
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10394,11 +10441,11 @@ GameObject:
   - component: {fileID: 1209679558}
   m_Layer: 0
   m_Name: Beans (21)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1209679554
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10518,11 +10565,11 @@ GameObject:
   - component: {fileID: 1284174950}
   m_Layer: 0
   m_Name: Beans (54)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1284174946
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10745,7 +10792,7 @@ GameObject:
   - component: {fileID: 1305867423}
   m_Layer: 0
   m_Name: Beans (30)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10972,11 +11019,11 @@ GameObject:
   - component: {fileID: 1340873881}
   m_Layer: 0
   m_Name: Beans (51)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1340873877
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -11096,11 +11143,11 @@ GameObject:
   - component: {fileID: 1344117977}
   m_Layer: 0
   m_Name: Beans (28)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1344117973
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -11220,11 +11267,11 @@ GameObject:
   - component: {fileID: 1379707345}
   m_Layer: 0
   m_Name: Beans (7)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1379707341
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -11451,11 +11498,11 @@ GameObject:
   - component: {fileID: 1406844101}
   m_Layer: 0
   m_Name: Beans (50)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1406844097
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -11754,11 +11801,11 @@ GameObject:
   - component: {fileID: 1476985205}
   m_Layer: 0
   m_Name: Beans (38)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1476985201
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -11878,11 +11925,11 @@ GameObject:
   - component: {fileID: 1511465552}
   m_Layer: 0
   m_Name: Beans (8)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1511465548
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12002,11 +12049,11 @@ GameObject:
   - component: {fileID: 1522141309}
   m_Layer: 0
   m_Name: Beans (36)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1522141305
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12310,11 +12357,11 @@ GameObject:
   - component: {fileID: 1562055629}
   m_Layer: 0
   m_Name: Beans (58)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1562055625
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12434,11 +12481,11 @@ GameObject:
   - component: {fileID: 1587961113}
   m_Layer: 0
   m_Name: Beans (81)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1587961109
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12558,11 +12605,11 @@ GameObject:
   - component: {fileID: 1592461381}
   m_Layer: 0
   m_Name: Beans (17)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1592461377
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12682,11 +12729,11 @@ GameObject:
   - component: {fileID: 1602489153}
   m_Layer: 0
   m_Name: Beans (48)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1602489149
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13222,11 +13269,11 @@ GameObject:
   - component: {fileID: 1672036506}
   m_Layer: 0
   m_Name: Beans (6)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1672036502
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13508,11 +13555,11 @@ GameObject:
   - component: {fileID: 1708826574}
   m_Layer: 0
   m_Name: Beans (15)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1708826570
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13632,11 +13679,11 @@ GameObject:
   - component: {fileID: 1711613652}
   m_Layer: 0
   m_Name: Beans (20)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1711613648
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13756,11 +13803,11 @@ GameObject:
   - component: {fileID: 1712665414}
   m_Layer: 0
   m_Name: Beans (52)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1712665410
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -14016,11 +14063,11 @@ GameObject:
   - component: {fileID: 1744257879}
   m_Layer: 0
   m_Name: Beans (26)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1744257875
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -14140,11 +14187,11 @@ GameObject:
   - component: {fileID: 1760290199}
   m_Layer: 0
   m_Name: Beans (79)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1760290195
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -14290,11 +14337,11 @@ GameObject:
   - component: {fileID: 1787869790}
   m_Layer: 0
   m_Name: Beans (53)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1787869786
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -14414,11 +14461,11 @@ GameObject:
   - component: {fileID: 1794377749}
   m_Layer: 0
   m_Name: Beans (1)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1794377745
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -14744,11 +14791,11 @@ GameObject:
   - component: {fileID: 1844133401}
   m_Layer: 0
   m_Name: Beans (78)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1844133397
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -15105,11 +15152,11 @@ GameObject:
   - component: {fileID: 1900185120}
   m_Layer: 0
   m_Name: Beans (37)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1900185116
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -15229,11 +15276,11 @@ GameObject:
   - component: {fileID: 1949187968}
   m_Layer: 0
   m_Name: Beans (11)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1949187964
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -15353,11 +15400,11 @@ GameObject:
   - component: {fileID: 1970883910}
   m_Layer: 0
   m_Name: Beans (70)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1970883906
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -15683,11 +15730,11 @@ GameObject:
   - component: {fileID: 2009429907}
   m_Layer: 0
   m_Name: Beans (29)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &2009429903
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16111,11 +16158,11 @@ GameObject:
   - component: {fileID: 2057223344}
   m_Layer: 0
   m_Name: Beans (41)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &2057223340
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16235,11 +16282,11 @@ GameObject:
   - component: {fileID: 2075002670}
   m_Layer: 0
   m_Name: Beans (84)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &2075002666
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16392,11 +16439,11 @@ GameObject:
   - component: {fileID: 2113888740}
   m_Layer: 0
   m_Name: Beans (31)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &2113888736
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16516,11 +16563,11 @@ GameObject:
   - component: {fileID: 2117536034}
   m_Layer: 0
   m_Name: Beans (42)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &2117536030
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16640,11 +16687,11 @@ GameObject:
   - component: {fileID: 2134477232}
   m_Layer: 0
   m_Name: Beans (77)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &2134477228
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16764,11 +16811,11 @@ GameObject:
   - component: {fileID: 2146497483}
   m_Layer: 0
   m_Name: Beans (22)
-  m_TagString: Untagged
+  m_TagString: Pellet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &2146497479
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -17034,3 +17081,4 @@ SceneRoots:
   - {fileID: 565104017}
   - {fileID: 111552845}
   - {fileID: 87905179832945283}
+  - {fileID: 816295347}
